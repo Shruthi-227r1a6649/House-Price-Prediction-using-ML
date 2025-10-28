@@ -8,12 +8,16 @@ After preprocessing — which includes data cleaning, handling missing values, f
 
 Finally, the trained model is serialized using Pickle, and a Flask web application is built to provide an interactive interface where users can input property details (like location, area, BHK, and bathrooms) and get an instant price prediction.
 
-#Technologies Used:
+Technologies and tools Used:
+1. Python
+2. Numpy and Pandas for data cleaning
+3. Matplotlib for data visualization
+4. Sklearn for model building
+5. Jupyter notebook, visual studio code and pycharm as IDE
+6. Python flask for http server
+7. HTML/CSS/Javascript for UI
 
-1. Programming Language: Python
-
-2. Libraries: pandas, NumPy, scikit-learn, matplotlib, pickle
-
-3. Framework: Flask
-
-4. Tools: Jupyter Notebook, VS Code
+Machine Learning Algorithms Tested:
+Linear Regression
+Lasso Regression
+Decision Tree Regressor
