@@ -18,6 +18,6 @@ Technologies and tools Used:
 7. HTML/CSS/Javascript for UI
 
 Machine Learning Algorithms Tested:
-Linear Regression
-Lasso Regression
-Decision Tree Regressor
+1. Linear Regression
+2. Lasso Regression
+3. Decision Tree Regressor
