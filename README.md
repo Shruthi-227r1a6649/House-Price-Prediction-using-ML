@@ -7,3 +7,13 @@ The project is built using Python, leveraging powerful libraries like pandas, Nu
 After preprocessing — which includes data cleaning, handling missing values, feature engineering, and one-hot encoding of locations — several regression algorithms such as Linear Regression, Lasso Regression, and Decision Tree Regressor are applied. The best model is selected using GridSearchCV to ensure optimal hyperparameter tuning.
 
 Finally, the trained model is serialized using Pickle, and a Flask web application is built to provide an interactive interface where users can input property details (like location, area, BHK, and bathrooms) and get an instant price prediction.
+
+#Technologies Used:
+
+1. Programming Language: Python
+
+2. Libraries: pandas, NumPy, scikit-learn, matplotlib, pickle
+
+3. Framework: Flask
+
+4. Tools: Jupyter Notebook, VS Code
